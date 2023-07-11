@@ -1,6 +1,7 @@
 ### Fala Dev! Eu sou o Deivid, apaixonado por desenvolvimento e tecnologia.
+<hr>
 
-- 🔭 Hoje sou inciante full-stack
+- 🔭 Hoje sou inciante Full Stack
 - 🌱 Estudando Angular
 - 😄 Pronome: ele/dele
 
